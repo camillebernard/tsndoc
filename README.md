@@ -11,7 +11,7 @@ This phenomenon is very frequent in Europe (for instance in France, in 2016, adm
 
 We propose the following representation of TSN changes on the Linked Open Data Web:
 
-![](./resources/img_fusion_france_vulga.pdf "TSN Linked Open Data Graph example")
+![TSN Linked Open Data Graph example](./resources/img_fusion_france_vulga.png "TSN Linked Open Data Graph example")
 
 
 
