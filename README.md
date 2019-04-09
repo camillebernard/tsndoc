@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+## Welcome to the TSN project doc
 
-You can use the [editor on GitHub](https://github.com/camillebernard/tsndoc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**TSN are geographic divisions built by Statistical Institutes**, and usually deriving from electoral or administrative structure.
+ These geographic divisions change over time. 
+ 
+The **TSN and TSN-Change Ontologies** (Territorial Statistical Nomenclature Ontology)  enable the description of any geographic divisions for statistics into the Web of Linked Data and, above all, rich descriptions of territorial changes from one geographic divisions version to another.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*Through times, all over the world, the areas (portions of space on earth) delimited by or, under the control of human groups (e.g., administrative or electoral areas) are subject to change : their names, belonging or boundaries change for some political or administrative reasons. Likewise, the Territorial Statistical Nomenclatures (TSNs) that are sets of artifact areas built by Statistical Institutes, and usually deriving from electoral or administrative structures, also change over time and at several division levels (e.g., regions, districts, sub-districts). These changes in TSNs are an obstacle to maintain socio-economic data comparability over time. Since most of the time, they lead to broken time-series and are source of misinterpretations of statistics when not properly documented.*
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Papers
 
-```markdown
-Syntax highlighted code block
+ * **Modeling changes in territorial partitions over time: Ontologies TSN and TSN-Change** Bernard C., Villanova-Oliver M., Gensel J., Dao H.<br/>
+ The 33rd ACM/SIGAPP Symposium On Applied Computing **ACM SIGAPP 2018**, April 9–13, 2018, Pau, France.
+ 
+ * **An Ontology-based Algorithm for Managing the Evolution of Multi-Level Territorial Partitions** Bernard C., Plumejeaud-Perreau C., Villanova-Oliver M., Gensel J., Dao H.<br/>
+The 26th ACM/SIGSPATIAL International Conference on Advances in Geographic Information Systems, **ACM SIGSPATIAL 2018**, November 6-9, 2018, Seattle, Washington, USA.<br/>
+**BEST POSTER AWARD** [https://sigspatial2018.sigspatial.org/awards/](https://sigspatial2018.sigspatial.org/awards/)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Ontologies
 
-1. Numbered
-2. List
+TSN Ontology [http://purl.org/net/tsn#](http://purl.org/net/tsn#) 
 
-**Bold** and _Italic_ and `Code` text
+TSN-Change Ontology [http://purl.org/net/tsnchange#](http://purl.org/net/tsnchange#) 
 
-[Link](url) and ![Image](src)
-```
+### TSN Datasets
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Eurostat Nomenclature NUTS** versions 1999, 2003, 2006, 2010 [http://purl.org/steamer/nuts/](http://purl.org/steamer/nuts/)<br/><br/>
 
-### Jekyll Themes
+**Australian Nomenclature ASGS** versions 2011, 2016 [http://purl.org/steamer/asgs/](http://purl.org/steamer/asgs/)<br/><br/>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/camillebernard/tsndoc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Swiss Nomenclature SAU** versions 2017, 2018 [http://purl.org/steamer/sau/](http://purl.org/steamer/sau/)<br/><br/>
 
-### Support or Contact
+### TSN-Change Datasets
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ * NUTS change graphs 
+ 
+     * versions 1999 to 2003 [http://purl.org/steamer/nuts/change_nomenclaturechange_1999_2003](http://purl.org/steamer/nuts/change_nomenclaturechange_1999_2003)<br/><br/>
+     
+     * versions 2003 to 2006 [http://purl.org/steamer/nuts/change_nomenclaturechange_2003_2006](http://purl.org/steamer/nuts/change_nomenclaturechange_2003_2006)<br/><br/>
+     
+     * versions 2006 to 2010 [http://purl.org/steamer/nuts/change_nomenclaturechange_2006_2010](http://purl.org/steamer/nuts/change_nomenclaturechange_2006_2010)<br/><br/>
+
+  * ASGS change graph 
+  
+      * versions 2011 to 2016 [http://purl.org/steamer/asgs/change_nomenclaturechange_2011_2016](http://purl.org/steamer/asgs/change_nomenclaturechange_2011_2016)<br/><br/>
+	
+  * SAU change graph 
+  
+      * versions 2017 to 2018 [http://purl.org/steamer/sau/change_nomenclaturechange_2017_2018](http://purl.org/steamer/sau/change_nomenclaturechange_2017_2018)<br/>
+      
+      + TSN Catalog of changes in the SAU TSN compared to the catalog provided by the Swiss Federal Statistical Office [here](https://www.bfs.admin.ch/bfs/en/home/statistics/catalogues-databases/publications.assetdetail.4123244.html)<br/><br/>
+
+### TSN Web Mapping UI 
+
+[http://lig-tdcge.imag.fr/tsn-catalog/](http://lig-tdcge.imag.fr/tsn-catalog/)
+
+### TSN SPARQL Endpoint
+
+[http://steamerlod.imag.fr//repositories/tsn](http://steamerlod.imag.fr//repositories/tsn)
+
+**Usage:** e.g., [http://steamerlod.imag.fr//repositories/tsn?&query=DESCRIBE<http:// purl.org/steamer/nuts/V1999>](http://steamerlod.imag.fr//repositories/tsn?&query=DESCRIBE<http:// purl.org/steamer/nuts/V1999>)
+
+### TSN SPARQL requests example
+
+ [SPARQL queries example](./resources/tsn_sparql_requests.pdf)
