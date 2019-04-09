@@ -76,7 +76,7 @@ TSN-Change Ontology [http://purl.org/net/tsnchange#](http://purl.org/net/tsnchan
 
 ### TSN SPARQL Endpoint
 
-[http://steamerlod.imag.fr//repositories/tsn](http://steamerlod.imag.fr//repositories/tsn)
+[http://steamerlod.imag.fr/sparql?](http://steamerlod.imag.fr/sparql?)
 
 **Usage:** e.g., [http://steamerlod.imag.fr/sparql?&query=DESCRIBE\<http://purl.org/steamer/nuts/V1999\>](http://steamerlod.imag.fr/sparql?&query=DESCRIBE+%3Chttp%3A%2F%2Fpurl.org%2Fsteamer%2Fnuts%2FV1999%3E)
 
