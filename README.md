@@ -11,7 +11,7 @@ This phenomenon is very frequent in Europe (for instance in France, in 2016, adm
 
 We propose the following representation of TSN changes on the Linked Open Data Web:
 
-![TSN Linked Open Data Graph example](./resources/img_fusion_france_vulga.pdf "TSN Linked Open Data Graph example")
+![](./resources/img_fusion_france_vulga.pdf "TSN Linked Open Data Graph example")
 
 
 
@@ -75,7 +75,6 @@ TSN-Change Ontology [http://purl.org/net/tsnchange#](http://purl.org/net/tsnchan
 
 **Usage:** e.g., [http://steamerlod.imag.fr/sparql?&query=DESCRIBE\<http://purl.org/steamer/nuts/V1999\>](http://steamerlod.imag.fr/sparql?&query=DESCRIBE+%3Chttp%3A%2F%2Fpurl.org%2Fsteamer%2Fnuts%2FV1999%3E)
 
-http://steamerlod.imag.fr/sparql?name=&infer=true&sameAs=true&query=DESCRIBE+%3Chttp%3A%2F%2Fpurl.org%2Fsteamer%2Fnuts%2FV1999%3E
 
 ### TSN SPARQL requests example
 
