@@ -1,7 +1,5 @@
 ## Welcome to the TSN-Project documentation
 
-[TOC]
-
 **TSN are geographic divisions built by Statistical Institutes**, and usually deriving from electoral or administrative structure.
  These geographic divisions change over time. 
  
