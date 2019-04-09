@@ -26,31 +26,37 @@ TSN-Change Ontology [http://purl.org/net/tsnchange#](http://purl.org/net/tsnchan
 
 ### TSN Datasets
 
-**Eurostat Nomenclature NUTS** versions 1999, 2003, 2006, 2010 [http://purl.org/steamer/nuts/](http://purl.org/steamer/nuts/)<br/><br/>
+**Eurostat Nomenclature NUTS** versions 1999, 2003, 2006, 2010 [http://purl.org/steamer/nuts/](http://purl.org/steamer/nuts/)<br/>
 
-**Australian Nomenclature ASGS** versions 2011, 2016 [http://purl.org/steamer/asgs/](http://purl.org/steamer/asgs/)<br/><br/>
+**Australian Nomenclature ASGS** versions 2011, 2016 [http://purl.org/steamer/asgs/](http://purl.org/steamer/asgs/)<br/>
 
-**Swiss Nomenclature SAU** versions 2017, 2018 [http://purl.org/steamer/sau/](http://purl.org/steamer/sau/)<br/><br/>
+**Swiss Nomenclature SAU** versions 2017, 2018 [http://purl.org/steamer/sau/](http://purl.org/steamer/sau/)<br/>
 
 ### TSN-Change Datasets
 
  * NUTS change graphs 
  
-     * versions 1999 to 2003 [http://purl.org/steamer/nuts/change_nomenclaturechange_1999_2003](http://purl.org/steamer/nuts/change_nomenclaturechange_1999_2003)<br/><br/>
+     * versions 1999 to 2003<br/>
+     [http://purl.org/steamer/nuts/change_nomenclaturechange_1999_2003](http://purl.org/steamer/nuts/change_nomenclaturechange_1999_2003)<br/><br/>
      
-     * versions 2003 to 2006 [http://purl.org/steamer/nuts/change_nomenclaturechange_2003_2006](http://purl.org/steamer/nuts/change_nomenclaturechange_2003_2006)<br/><br/>
+     * versions 2003 to 2006<br/>
+     [http://purl.org/steamer/nuts/change_nomenclaturechange_2003_2006](http://purl.org/steamer/nuts/change_nomenclaturechange_2003_2006)<br/><br/>
      
-     * versions 2006 to 2010 [http://purl.org/steamer/nuts/change_nomenclaturechange_2006_2010](http://purl.org/steamer/nuts/change_nomenclaturechange_2006_2010)<br/><br/>
+     * versions 2006 to 2010<br/>
+     [http://purl.org/steamer/nuts/change_nomenclaturechange_2006_2010](http://purl.org/steamer/nuts/change_nomenclaturechange_2006_2010)<br/><br/>
 
   * ASGS change graph 
   
-      * versions 2011 to 2016 [http://purl.org/steamer/asgs/change_nomenclaturechange_2011_2016](http://purl.org/steamer/asgs/change_nomenclaturechange_2011_2016)<br/><br/>
+      * versions 2011 to 2016<br/>
+     [http://purl.org/steamer/asgs/change_nomenclaturechange_2011_2016](http://purl.org/steamer/asgs/change_nomenclaturechange_2011_2016)<br/><br/>
 	
   * SAU change graph 
   
-      * versions 2017 to 2018 [http://purl.org/steamer/sau/change_nomenclaturechange_2017_2018](http://purl.org/steamer/sau/change_nomenclaturechange_2017_2018)<br/>
+      * versions 2017 to 2018<br/>
+     [http://purl.org/steamer/sau/change_nomenclaturechange_2017_2018](http://purl.org/steamer/sau/change_nomenclaturechange_2017_2018)<br/>
       
-      + TSN Catalog of changes in the SAU TSN compared to the catalog provided by the Swiss Federal Statistical Office [here](https://www.bfs.admin.ch/bfs/en/home/statistics/catalogues-databases/publications.assetdetail.4123244.html)<br/><br/>
+      + TSN Catalog of changes in the SAU TSN compared to the catalog provided by the Swiss Federal Statistical Office [here](https://www.bfs.admin.ch/bfs/en/home/statistics/catalogues-databases/publications.assetdetail.4123244.html)<br/>
+       [TSN SAU catalog of changes](./resources/sau_2017_2018_tsn_change_descriptions.pdf)
 
 ### TSN Web Mapping UI 
 
@@ -60,7 +66,7 @@ TSN-Change Ontology [http://purl.org/net/tsnchange#](http://purl.org/net/tsnchan
 
 [http://steamerlod.imag.fr//repositories/tsn](http://steamerlod.imag.fr//repositories/tsn)
 
-**Usage:** e.g., [http://steamerlod.imag.fr//repositories/tsn?&query=DESCRIBE<http:// purl.org/steamer/nuts/V1999>](http://steamerlod.imag.fr//repositories/tsn?&query=DESCRIBE<http:// purl.org/steamer/nuts/V1999>)
+**Usage:** e.g., [http://steamerlod.imag.fr//repositories/tsn?&query=DESCRIBE<http://purl.org/steamer/nuts/V1999>](http://steamerlod.imag.fr//repositories/tsn?&query=DESCRIBE<http://purl.org/steamer/nuts/V1999>)
 
 ### TSN SPARQL requests example
 
