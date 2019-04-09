@@ -1,7 +1,7 @@
 ## Welcome to the TSN-Project documentation
 
-**TSN are geographic divisions built by Statistical Institutes**, and usually deriving from electoral or administrative structure.
- These geographic divisions change over time. 
+**TSNs (*Territorial Statistical Nomenclatures*) are geographic divisions built by Statistical Institutes**, usually deriving from electoral or administrative structure.
+TSNs geographic divisions change over time. 
  
 The **TSN and TSN-Change Ontologies** (Territorial Statistical Nomenclature Ontology)  enable the description of any geographic divisions for statistics into the Web of Linked Data and, above all, rich descriptions of territorial changes from one geographic divisions version to another.
 
