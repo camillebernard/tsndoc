@@ -1,5 +1,7 @@
 ## Welcome to the TSN-Project documentation
 
+[TOC]
+
 **TSN are geographic divisions built by Statistical Institutes**, and usually deriving from electoral or administrative structure.
  These geographic divisions change over time. 
  
@@ -67,7 +69,12 @@ TSN-Change Ontology [http://purl.org/net/tsnchange#](http://purl.org/net/tsnchan
 
 ### TSN Web Mapping UI 
 
+*Work in progress...*
+
 [http://lig-tdcge.imag.fr/tsn-catalog/](http://lig-tdcge.imag.fr/tsn-catalog/)
+
+![TSN Web Mapping UI](./resources/TSN_web_mapping_catalog_WMS_request.png "TSN Web Mapping UI")
+
 
 ### TSN SPARQL Endpoint
 
