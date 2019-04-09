@@ -44,18 +44,18 @@ TSN-Change Ontology [http://purl.org/net/tsnchange#](http://purl.org/net/tsnchan
  * NUTS change graphs 
  
      * versions 1999 to 2003<br/>
-     [http://purl.org/steamer/nuts/change_nomenclaturechange_1999_2003](http://purl.org/steamer/nuts/change_nomenclaturechange_1999_2003)<br/><br/>
+     [http://purl.org/steamer/nuts/change_nomenclaturechange_1999_2003](http://purl.org/steamer/nuts/change_nomenclaturechange_1999_2003)<br/>
      
      * versions 2003 to 2006<br/>
-     [http://purl.org/steamer/nuts/change_nomenclaturechange_2003_2006](http://purl.org/steamer/nuts/change_nomenclaturechange_2003_2006)<br/><br/>
+     [http://purl.org/steamer/nuts/change_nomenclaturechange_2003_2006](http://purl.org/steamer/nuts/change_nomenclaturechange_2003_2006)<br/>
      
      * versions 2006 to 2010<br/>
-     [http://purl.org/steamer/nuts/change_nomenclaturechange_2006_2010](http://purl.org/steamer/nuts/change_nomenclaturechange_2006_2010)<br/><br/>
+     [http://purl.org/steamer/nuts/change_nomenclaturechange_2006_2010](http://purl.org/steamer/nuts/change_nomenclaturechange_2006_2010)<br/>
 
   * ASGS change graph 
   
       * versions 2011 to 2016<br/>
-     [http://purl.org/steamer/asgs/change_nomenclaturechange_2011_2016](http://purl.org/steamer/asgs/change_nomenclaturechange_2011_2016)<br/><br/>
+     [http://purl.org/steamer/asgs/change_nomenclaturechange_2011_2016](http://purl.org/steamer/asgs/change_nomenclaturechange_2011_2016)<br/>
 	
   * SAU change graph 
   
