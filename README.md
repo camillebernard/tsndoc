@@ -1,4 +1,4 @@
-## Welcome to the TSN project doc
+## Welcome to the TSN-Project documentation
 
 **TSN are geographic divisions built by Statistical Institutes**, and usually deriving from electoral or administrative structure.
  These geographic divisions change over time. 
@@ -7,8 +7,15 @@ The **TSN and TSN-Change Ontologies** (Territorial Statistical Nomenclature Onto
 
 *Through times, all over the world, the areas (portions of space on earth) delimited by or, under the control of human groups (e.g., administrative or electoral areas) are subject to change : their names, belonging or boundaries change for some political or administrative reasons. Likewise, the Territorial Statistical Nomenclatures (TSNs) that are sets of artifact areas built by Statistical Institutes, and usually deriving from electoral or administrative structures, also change over time and at several division levels (e.g., regions, districts, sub-districts). These changes in TSNs are an obstacle to maintain socio-economic data comparability over time. Since most of the time, they lead to broken time-series and are source of misinterpretations of statistics when not properly documented.*
 
+This phenomenon is very frequent in Europe (for instance in France, in 2016, administrative regions have been merged into greater regions) or in the U.S.A. (through a well-known process called gerrymandering).
 
-### Papers
+We propose the following representation of TSN changes on the Linked Open Data Web:
+
+![TSN Linked Open Data Graph example](./resources/img_fusion_france_vulga.pdf "TSN Linked Open Data Graph example")
+
+
+
+### TSN Papers 
 
  * **Modeling changes in territorial partitions over time: Ontologies TSN and TSN-Change** Bernard C., Villanova-Oliver M., Gensel J., Dao H.<br/>
  The 33rd ACM/SIGAPP Symposium On Applied Computing **ACM SIGAPP 2018**, April 9–13, 2018, Pau, France.
@@ -66,7 +73,9 @@ TSN-Change Ontology [http://purl.org/net/tsnchange#](http://purl.org/net/tsnchan
 
 [http://steamerlod.imag.fr//repositories/tsn](http://steamerlod.imag.fr//repositories/tsn)
 
-**Usage:** e.g., [http://steamerlod.imag.fr//repositories/tsn?&query=DESCRIBE<http://purl.org/steamer/nuts/V1999>](http://steamerlod.imag.fr//repositories/tsn?&query=DESCRIBE<http://purl.org/steamer/nuts/V1999>)
+**Usage:** e.g., [http://steamerlod.imag.fr/sparql?&query=DESCRIBE<http://purl.org/steamer/nuts/V1999>](http://steamerlod.imag.fr/sparql?&query=DESCRIBE+%3Chttp%3A%2F%2Fpurl.org%2Fsteamer%2Fnuts%2FV1999%3E)
+
+http://steamerlod.imag.fr/sparql?name=&infer=true&sameAs=true&query=DESCRIBE+%3Chttp%3A%2F%2Fpurl.org%2Fsteamer%2Fnuts%2FV1999%3E
 
 ### TSN SPARQL requests example
 
