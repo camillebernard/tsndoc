@@ -22,7 +22,7 @@ We propose the following representation of TSN changes on the Linked Open Data W
  
  * **An Ontology-based Algorithm for Managing the Evolution of Multi-Level Territorial Partitions** Bernard C., Plumejeaud-Perreau C., Villanova-Oliver M., Gensel J., Dao H.<br/>
 The 26th ACM/SIGSPATIAL International Conference on Advances in Geographic Information Systems, **ACM SIGSPATIAL 2018**, November 6-9, 2018, Seattle, Washington, USA.<br/>
-**BEST POSTER AWARD** [https://sigspatial2018.sigspatial.org/awards/](https://sigspatial2018.sigspatial.org/awards/) Poster: [https://www.researchgate.net/publication/329093142_An_Ontology-based_Algorithm_for_Managing_the_Evolution_of_Multi-Level_Territorial_Partitions] (https://www.researchgate.net/publication/329093142_An_Ontology-based_Algorithm_for_Managing_the_Evolution_of_Multi-Level_Territorial_Partitions)
+**BEST POSTER AWARD** [https://sigspatial2018.sigspatial.org/awards/](https://sigspatial2018.sigspatial.org/awards/) Poster: [Link to the poster on Reasearchgate](https://www.researchgate.net/publication/329093142_An_Ontology-based_Algorithm_for_Managing_the_Evolution_of_Multi-Level_Territorial_Partitions)
 
 
 ### Ontologies
