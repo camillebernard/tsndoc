@@ -84,3 +84,11 @@ TSN-Change Ontology [http://purl.org/net/tsnchange#](http://purl.org/net/tsnchan
 ### TSN SPARQL requests example
 
  [SPARQL queries example](./resources/tsn_sparql_requests.pdf)
+ 
+ ### GeoChange App 
+ 
+ [video box recherche](./resources/1_utilisation_de_la_box.mp4)
+ 
+ [video cartes synchronisées recherche](./resources/2_explicatons_deux_cartes.mp4)
+
+ [video suisse popup recherche](./resources/3_informations_popup.mp4)
