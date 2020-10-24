@@ -85,7 +85,10 @@ TSN-Change Ontology [http://purl.org/net/tsnchange#](http://purl.org/net/tsnchan
 
  [SPARQL queries example](./resources/tsn_sparql_requests.pdf)
  
-### GeoChange App 
+### GeoChange App (Développée par Romain Pinel-Germain & Abdessami Ghodbane)
+
+Développée par Romain Pinel-Germain & Abdessami Ghodbane dans le cadre de leur projet tutoré 2019-20 Master 1 WIC de l'UGA, **un grand merci à eux deux !**
+L'application sera bientôt disponible en ligne. 
  
  [video box recherche](./resources/1_utilisation_de_la_box.mp4)
  
